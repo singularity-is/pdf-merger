@@ -22,7 +22,7 @@
  *
  */
 
-
+namespace singularity\pdfmerger;
 
 use setasign\Fpdi\Fpdi;
 
