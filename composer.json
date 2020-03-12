@@ -1,0 +1,26 @@
+{
+    "name": "singularity/pdf-merger",
+    "description": "PDF merger",
+    "keywords": [
+        "singularity",
+        "singularity solution",
+        "PDF",
+        "TCPDF",
+        "FPDI"
+    ],
+    "license": "BSD-3-Clause",
+    "homepage": "https://github.com/singularity-is/pdf-merger",
+    "authors": [
+        {
+            "name": "Singularity Solution",
+            "email": "hello@singularity.is",
+            "homepage": "https://singularity.is",
+            "role": "Developer"
+        }
+    ],
+    
+    "require": {
+        "setasign/fpdi": "^2.2",
+        "setasign/fpdf": "^1.8"
+    }
+}
